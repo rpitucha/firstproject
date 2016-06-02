@@ -4,8 +4,7 @@ B Programowanie jest super trudne.
 :(
 
 ... chyba mega trudne
-
-
+Przynajmniej Git po odpowiedniej konfiguracji jest prosty :)
 
 
 Dziêki £ukasz za pomoc.  
