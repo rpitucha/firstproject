@@ -1,0 +1,3 @@
+# Przygody z Git #
+
+Proste :)
